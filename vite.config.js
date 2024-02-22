@@ -4,4 +4,6 @@ export default {
   build: {
     outDir: "../dist",
   },
+
+  base: "/tets-github-pages/",
 };
