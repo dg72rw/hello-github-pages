@@ -5,5 +5,5 @@ export default {
     outDir: "../dist",
   },
 
-  base: "/hello-github-pages/",
+  // base: "/hello-github-pages/",
 };
